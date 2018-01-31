@@ -1,0 +1,9 @@
+_site/
+run-results/
+jekyll/environments/
+.sass-cache/
+.jekyll-metadata
+.vagrant/
+.DS_Store
+.bundle/
+.ruby-version
